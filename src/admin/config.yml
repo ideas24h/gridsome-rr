@@ -1,11 +1,23 @@
 backend:
   name: github
   repo: ideas24h/gridsome-rr
+  accept_roles: #optional - accepts all users if left out
+    - admin
+    - editor
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Content", name: "content", widget: "markdown"}
   - name: "posts"
     label: "Posts"
     folder: "posts"
