@@ -1,6 +1,6 @@
 ---
 title: Taurus Mini Striker
-coverImage: /images/uploads/taurus.jpg
+coverImage: /images/uploads/taurus-mini-striker.jpg
 excerpt: >-
   No siempre necesitas la mejor aspiradora del mercado. A veces solo hace falta
   una ayuda extra en la limpieza, para que el mantenimiento diario sea un poco
