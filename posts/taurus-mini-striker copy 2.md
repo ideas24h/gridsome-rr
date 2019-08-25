@@ -11,6 +11,13 @@ excerpt: >-
   pequeño tamaño (23,5 cm de diámetro) tan sencillo de manejar como parece, con
   un botón de on y off.....
 date: 2019-08-25T10:25:21.116Z
+pros: |-
+  * La batería dura hasta 75 minutos.
+  * Es bastante silenciosa (50 dB).
+  * El manejo es sencillo.
+contras: |-
+  * Las piezas, especialmente la batería, no aguantan bien el uso intensivo.
+  * Las mopas son desechables y hay que preocuparse de comprar recambios.
 ---
 No siempre necesitas la mejor aspiradora del mercado. A veces solo hace falta una ayuda extra en la limpieza, para que el mantenimiento diario sea un poco más cómodo.
 
