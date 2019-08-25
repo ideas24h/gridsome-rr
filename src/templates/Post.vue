@@ -4,12 +4,12 @@
       <h1 class="pb-1 text-xl font-bold">
         {{ $page.post.title }}
       </h1>
-      <div class="my-4">
+      <!-- <div class="my-4">
         Posted {{ $page.post.date }}
         <template v-if="$page.post.timeToRead">
           <strong>{{ $page.post.timeToRead }} min read.</strong>  
         </template>  
-      </div>
+      </div> -->
     </div>
     <div class="post__header">
       <img alt="Cover image" class="w-full rounded rounded-b-none h-48 object-cover" v-if="$page.post.coverImage" :src="$page.post.coverImage" />

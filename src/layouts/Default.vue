@@ -7,6 +7,7 @@
       <nav class="nav text-lg">
         <g-link class="mx-2 hover:text-gray-600" to="/">Home</g-link>
         <g-link class="mx-2 hover:text-gray-600" to="/about">Acerca de</g-link>
+        <g-link class="mx-2 hover:text-gray-600" to="/afiliados">AFiliados</g-link>
       </nav>
     </header>
     <slot/>
