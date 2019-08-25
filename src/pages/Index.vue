@@ -24,12 +24,12 @@ PD: al final también encontrarás una práctica tabla comparativa y una complet
           <p class="text-gray-700 text-base">
             {{post.node.excerpt}}
           </p>
-          <div class="mt-2">
+          <!-- <div class="mt-2">
             Posted {{ post.node.date }}
             <template v-if="post.node.timeToRead">
               <strong>{{ post.node.timeToRead }} min read.</strong>  
             </template>
-          </div>
+          </div> -->
         </div>
       </g-link>
       <div class="px-6 py-4">
