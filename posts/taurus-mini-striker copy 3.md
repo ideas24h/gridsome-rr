@@ -1,7 +1,13 @@
 ---
 title: Cecotec Conga 1090
 coverImage: /images/uploads/cecotec-conga-1090.jpg
-excerpt: cecotec-conga-1090
+excerpt: >-
+  Mientras la mayoría de robots aspiradoras ofrecen tres modos de limpieza, el
+  Conga Serie 1090 de Cecotec va más allá y ofrece un 4 en 1: barre, aspira,
+  pasa la mopa y friega. Para ello tiene un pequeño depósito de agua de 300 ml
+  que humedece el suelo por goteo, eliminando las manchas más difíciles.  Aunque
+  resulta cómodo, este sistema de fregado es todavía mejorable, y no evitará que
+  tengas que pasar la fregona normal de vez en cuando.....
 date: 2019-08-25T10:25:21.116Z
 ---
 Mientras la mayoría de robots aspiradoras ofrecen tres modos de limpieza, el Conga Serie 1090 de Cecotec va más allá y ofrece un 4 en 1: barre, aspira, pasa la mopa y friega. Para ello tiene un pequeño depósito de agua de 300 ml que humedece el suelo por goteo, eliminando las manchas más difíciles.
