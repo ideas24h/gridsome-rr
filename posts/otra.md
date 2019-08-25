@@ -1,5 +1,5 @@
 ---
-title: Otra de vigilabebes
+title: Otra de Adpiradores
 coverImage: /images/uploads/hashmyjs.jpg
 excerpt: asdfsadffsad
 date: 2019-08-25T17:03:44.222Z
