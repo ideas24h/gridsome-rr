@@ -1,7 +1,8 @@
 backend:
-  name: github
+  name: git-gateway
   repo: ideas24h/gridsome-rr
   branch: vigilabebes
+  
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
