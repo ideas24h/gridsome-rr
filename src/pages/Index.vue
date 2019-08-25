@@ -17,13 +17,16 @@ En esta guía encontrarás los 10 mejores robots aspirador en calidad-precio seg
 PD: al final también encontrarás una práctica tabla comparativa y una completa guía de compra para que no te quede ninguna duda al hacer tu elección.
       </div>
     <div class="max-w rounded overflow-hidden shadow-lg mt-8"  v-for="post in $page.posts.edges" :key="post.id">
-      <g-link :to="post.node.path">
+      <!-- <g-link :to="post.node.path"> -->
         <img v-if="post.node.coverImage" :src="post.node.coverImage" class="w-full h-48 object-cover" alt="Cover" />
         <div class="px-6 py-4">
           <div class="font-bold text-xl mb-2">{{post.node.title}}</div>
-          <p class="text-gray-700 text-base">
+          <div class="px-4 py-4 rounded shadow-lg">
+      <div class="markdown mt-8" v-html="post.node.content" />
+    </div>
+          <!-- <p class="text-gray-700 text-base">
             {{post.node.excerpt}}
-          </p>
+          </p> -->
           <!-- <div class="mt-2">
             Posted {{ post.node.date }}
             <template v-if="post.node.timeToRead">
@@ -31,7 +34,7 @@ PD: al final también encontrarás una práctica tabla comparativa y una complet
             </template>
           </div> -->
         </div>
-      </g-link>
+      <!-- </g-link> -->
       <div class="px-6 py-4">
         <div class="post-tags">
           <g-link v-for="tag in post.node.tags" :key="tag.id" :to="tag.path">
@@ -57,6 +60,7 @@ PD: al final también encontrarás una práctica tabla comparativa y una complet
           title
           path
           excerpt
+          content
           tags {
             id
             title
