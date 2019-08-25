@@ -1,29 +1,51 @@
 ---
-title: Taurus Mini Striker 3
-coverImage: /images/uploads/taurus.jpg
-excerpt: taurus-mini-striker-3
+title: iRobot Roomba 605
+coverImage: /images/uploads/irobot-roomba-605.jpg
+excerpt: >-
+  Estamos frente la marca de referencia en el sector, y ante uno de los modelos
+  más básicos de su catálogo. La iRobot Roomba 605 es un robot aspirador muy
+  sencillo, casi como una Roomba “de iniciación” a un precio muy barato para los
+  estándares de la empresa.  Sin embargo, por muy elemental que sea a nivel de
+  programación, es una Roomba y con eso está casi todo dicho: estamos ante un
+  robot excelente que responde a lo que se espera de él....
 date: 2019-08-25T10:25:21.116Z
 ---
-No siempre necesitas la mejor aspiradora del mercado. A veces solo hace falta una ayuda extra en la limpieza, para que el mantenimiento diario sea un poco más cómodo.
+Estamos frente la marca de referencia en el sector, y ante uno de los modelos más básicos de su catálogo. La iRobot Roomba 605 es un robot aspirador muy sencillo, casi como una Roomba “de iniciación” a un precio muy barato para los estándares de la empresa.
 
-Esa es, ni más ni menos, la intención del Taurus Mini Striker: un robot aspirador con las prestaciones justas y necesarias para limpiar el suelo de cualquier casa.
-
-
-
-Por eso, no esperes complicadas programaciones, paredes virtuales o un escaneo completo de la casa. Lo que tenemos aquí es un robot de pequeño tamaño (23,5 cm de diámetro) tan sencillo de manejar como parece, con un botón de on y off.
+Sin embargo, por muy elemental que sea a nivel de programación, es una Roomba y con eso está casi todo dicho: estamos ante un robot excelente que responde a lo que se espera de él.
 
 
 
-El funcionamiento también es simple y efectivo: dos cepillos laterales arrastran el polvo y la suciedad hasta el aspirador situado en la parte inferior. Se puede acoplar una mopa para abrillantar el suelo, aunque hay que tener en cuenta que los recambios son desechables. Se encuentran fácilmente en supermercados y grandes superficies, y no son caros.
+El sistema de limpieza en tres fases cuenta con dos cepillos multisuperficie, un cepillo especial para bordes y una potente succión de aspirado. Cuando se agota la batería o ha terminado de limpiar vuelve automáticamente a la base de carga.
 
 
 
-Cuenta además con:
+Funciona muy bien en casas con mascotas, se adapta a todo tipo de superficies, ya sean suelos duros o alfombras, y el cepillo lateral tiene un ángulo de 27° que garantiza la limpieza total de esquinas y bordes.
 
 
 
-3 sensores anticaída para evitar obstáculos y escaleras.
+Como decimos, este es uno de los modelos más básicos de la marca. Funciona simplemente pulsando el botón Clean, mientras que la Roomba 680, por ejemplo, ofrece la posibilidad de programar la limpieza semanal.
 
-Una banda de protección lateral para no rallar los muebles.
 
-Su pequeño tamaño le permite moverse con soltura en espacios reducidos o muy llenos de muebles. También ocupa poco hueco de almacenaje, y se carga enchufando directamente un transformador a la red eléctrica. En ese sentido, el Taurus Mini Striker se presenta como la solución para las casas con problemas de espacio, donde hasta dejar fija la base de carga puede ser un problema.
+
+Y si comparamos con modelos más avanzados como la Roomba 960, echamos de menos el WiFi o la posibilidad de escanear toda la casa con un sistema de navegación propio para tener controlado hasta el último rincón.
+
+
+
+En resumen, sin nunca has tenido un robot aspirador, la Roomba 605 te va a cambiar la vida. Si pasas de funciones extras y simplemente quieres una limpieza sencilla y eficiente, es perfecto.
+
+
+
+**Pros**
+
+Para ser una Roomba, el precio es muy asequible.
+
+El mecanismo de limpieza es impecable, como en todos los modelos de la marca.
+
+Funciona con un solo botón.
+
+**Contras**
+
+No es programable, así que hay que estar en casa para ponerla en marcha.
+
+Se echa de menos un mando a distancia en un electrodoméstico de tanta calidad.
