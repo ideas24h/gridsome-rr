@@ -1,5 +1,5 @@
 ---
-title: "Say hello to Gridsome \U0001F389"
+title: "Say hello to rr \U0001F389"
 coverImage: /images/uploads/card-top.jpg
 excerpt: >-
   A new static site generator baby is born. It's highly inspired by Gatsby.js
