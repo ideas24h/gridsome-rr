@@ -1,7 +1,7 @@
 const tailwindcss = require('tailwindcss')
 
 module.exports = {
-    siteName: 'Los mejores robots aspirador',
+    siteName: 'Vigilabebes',
     siteDescription: 'Los mejores robots aspirador descripción',
     titleTemplate: 'Los mejores robots aspirador',
     css: {
