@@ -18,12 +18,22 @@ PD: al final también encontrarás una práctica tabla comparativa y una complet
       </div>
     <div class="max-w rounded overflow-hidden shadow-lg mt-8"  v-for="post in $page.posts.edges" :key="post.id">
       <!-- <g-link :to="post.node.path"> -->
-        <img v-if="post.node.coverImage" :src="post.node.coverImage" class="w-full h-48 object-cover" alt="Cover" />
+          <div class="block mt-1 uppercase tracking-wide text-2xl text-indigo-600 font-bold">{{post.node.title}}</div>
+<div class="md:flex">
+
+  <div class="md:flex-shrink-0">
+        <img v-if="post.node.coverImage" :src="post.node.coverImage" class="rounded-lg md:w-56" alt="Cover" />
+  </div>
+  <div class="mt-4 md:mt-0 md:ml-6">
+    <a href="#" class="block mt-1 text-lg leading-tight font-semibold text-gray-900 hover:underline">Subtitulo</a>
+    <div class="mt-2 text-gray-600" v-html="post.node.content" />
+        <div class="bg-blue-100 border border-blue-400 text-blue-700 px-4 py-3 rounded relative" v-html="post.node.pros" />
+        <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" v-html="post.node.contras" />
+
+  </div>
+</div>
+
         <div class="px-6 py-4">
-          <div class="font-bold text-xl mb-2">{{post.node.title}}</div>
-          <div class="px-4 py-4 rounded shadow-lg">
-      <div class="markdown mt-8" v-html="post.node.content" />
-    </div>
           <!-- <p class="text-gray-700 text-base">
             {{post.node.excerpt}}
           </p> -->
@@ -61,6 +71,8 @@ PD: al final también encontrarás una práctica tabla comparativa y una complet
           path
           excerpt
           content
+          pros
+          contras
           tags {
             id
             title
