@@ -1,29 +1,43 @@
 ---
-title: Taurus Mini Striker 2
-coverImage: /images/uploads/taurus.jpg
-excerpt: taurus-mini-striker-2
+title: Cecotec Conga 1090
+coverImage: /images/uploads/cecotec-conga-1090.jpg
+excerpt: cecotec-conga-1090
 date: 2019-08-25T10:25:21.116Z
 ---
-No siempre necesitas la mejor aspiradora del mercado. A veces solo hace falta una ayuda extra en la limpieza, para que el mantenimiento diario sea un poco más cómodo.
+Mientras la mayoría de robots aspiradoras ofrecen tres modos de limpieza, el Conga Serie 1090 de Cecotec va más allá y ofrece un 4 en 1: barre, aspira, pasa la mopa y friega. Para ello tiene un pequeño depósito de agua de 300 ml que humedece el suelo por goteo, eliminando las manchas más difíciles.
 
-Esa es, ni más ni menos, la intención del Taurus Mini Striker: un robot aspirador con las prestaciones justas y necesarias para limpiar el suelo de cualquier casa.
-
-
-
-Por eso, no esperes complicadas programaciones, paredes virtuales o un escaneo completo de la casa. Lo que tenemos aquí es un robot de pequeño tamaño (23,5 cm de diámetro) tan sencillo de manejar como parece, con un botón de on y off.
+Aunque resulta cómodo, este sistema de fregado es todavía mejorable, y no evitará que tengas que pasar la fregona normal de vez en cuando.
 
 
 
-El funcionamiento también es simple y efectivo: dos cepillos laterales arrastran el polvo y la suciedad hasta el aspirador situado en la parte inferior. Se puede acoplar una mopa para abrillantar el suelo, aunque hay que tener en cuenta que los recambios son desechables. Se encuentran fácilmente en supermercados y grandes superficies, y no son caros.
+Donde sí responde el Conga Serie 1090 es en la limpieza diaria:
 
 
 
-Cuenta además con:
+Por un lado incorpora dos sistemas -Force Implode y Turbo Clean Carpet- para maximizar la succión de la aspiradora y ofrecer buenos resultados incluso a suelos muy sucios.
+
+También tiene un cepillo de goma especial para evitar enredos en alfombras y otro rotativo con dos rodillos de cerdas y silicona, para todo tipo de superficies.
+
+El control se hace mediante un mando a distancia con pantalla LCD, que permite programar la limpieza semanal con cinco modos diferentes.
+
+Ten en cuenta que no mapea la casa y se mueve por las habitaciones de forma aleatoria (básicamente, da vueltas hasta que considera que el espacio está limpio). Sí tiene un sencillo GPS incorporado para que al terminar la limpieza, o al quedarse sin batería, el robot vuelva automáticamente a la base de carga.
 
 
 
-3 sensores anticaída para evitar obstáculos y escaleras.
+Con sensores de proximidad, distancia y anticaída, simplemente programa las horas de limpieza y deja que trabaje a su aire.
 
-Una banda de protección lateral para no rallar los muebles.
 
-Su pequeño tamaño le permite moverse con soltura en espacios reducidos o muy llenos de muebles. También ocupa poco hueco de almacenaje, y se carga enchufando directamente un transformador a la red eléctrica. En ese sentido, el Taurus Mini Striker se presenta como la solución para las casas con problemas de espacio, donde hasta dejar fija la base de carga puede ser un problema.
+
+**Pros**
+
+Programable 24/7
+
+Duración de la batería hasta 160 minutos
+
+2 cepillos laterales
+
+**Contras**
+
+Es una pena que los filtros sean EPA y no HEPA
+
+El sistema de fregado es muy mejorable
