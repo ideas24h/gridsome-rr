@@ -1,5 +1,5 @@
 ---
-title: Taurus Mini Striker
+title: Taurus vigi Mini Striker
 coverImage: /images/uploads/taurus-mini-striker.jpg
 excerpt: >-
   No siempre necesitas la mejor aspiradora del mercado. A veces solo hace falta
