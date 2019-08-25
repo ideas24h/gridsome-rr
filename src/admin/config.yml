@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: ideas24h/gridsome-rr
   branch: master
   accept_roles: #optional - accepts all users if left out
