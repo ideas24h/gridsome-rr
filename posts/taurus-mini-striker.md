@@ -1,29 +1,54 @@
 ---
-title: Taurus Mini Striker 4
-coverImage: /images/uploads/taurus.jpg
-excerpt: taurus-mini-striker-4 
+title: Ecovacs Robotics Deebot N79S
+coverImage: /images/uploads/ecovacs-deebot-n79s.jpg
+excerpt: >-
+  Con unas características de gama media muy competitivas, el Deebot N79S de la
+  marca Ecovacs Robotics es un robot aspirador que consigue unos resultados muy
+  satisfactorios en la limpieza del suelo, además de poder programar las
+  sesiones de trabajo gracias a la aplicación del móvil y el mando a distancia. 
+  Presenta cuatro modos de funcionamiento: Automático, Esquinas, Intensivo (MAX)
+  y Spot, este último para limpieza de manchas concretas en una zona
+  determinada, por ejemplo si se ha derramado algo en el suelo.
 date: 2019-08-25T10:25:21.116Z
 ---
-No siempre necesitas la mejor aspiradora del mercado. A veces solo hace falta una ayuda extra en la limpieza, para que el mantenimiento diario sea un poco más cómodo.
+Con unas características de gama media muy competitivas, el Deebot N79S de la marca Ecovacs Robotics es un robot aspirador que consigue unos resultados muy satisfactorios en la limpieza del suelo, además de poder programar las sesiones de trabajo gracias a la aplicación del móvil y el mando a distancia.
 
-Esa es, ni más ni menos, la intención del Taurus Mini Striker: un robot aspirador con las prestaciones justas y necesarias para limpiar el suelo de cualquier casa.
-
-
-
-Por eso, no esperes complicadas programaciones, paredes virtuales o un escaneo completo de la casa. Lo que tenemos aquí es un robot de pequeño tamaño (23,5 cm de diámetro) tan sencillo de manejar como parece, con un botón de on y off.
+Presenta cuatro modos de funcionamiento: Automático, Esquinas, Intensivo (MAX) y Spot, este último para limpieza de manchas concretas en una zona determinada, por ejemplo si se ha derramado algo en el suelo.
 
 
 
-El funcionamiento también es simple y efectivo: dos cepillos laterales arrastran el polvo y la suciedad hasta el aspirador situado en la parte inferior. Se puede acoplar una mopa para abrillantar el suelo, aunque hay que tener en cuenta que los recambios son desechables. Se encuentran fácilmente en supermercados y grandes superficies, y no son caros.
+Funciona con dos cepillos laterales que arrastran la suciedad hasta el aspirador central, mientras que el cepillo principal se encarga de la limpieza más profunda, como la de alfombras activando el modo MAX.
 
 
 
-Cuenta además con:
+Funciona bien en cualquier tipo de superficie, y responde correctamente en casas con mascotas, gracias al sistema de succión sin enredos que evita que el mecanismo se atasque (aunque, como ocurre con todos los electrodomésticos de este tipo, hay que limpiarlo y vaciar el depósito periódicamente).
 
 
 
-3 sensores anticaída para evitar obstáculos y escaleras.
+Aunque no tiene sistema de navegación para mapear la casa, dispone de las funciones habituales como:
 
-Una banda de protección lateral para no rallar los muebles.
 
-Su pequeño tamaño le permite moverse con soltura en espacios reducidos o muy llenos de muebles. También ocupa poco hueco de almacenaje, y se carga enchufando directamente un transformador a la red eléctrica. En ese sentido, el Taurus Mini Striker se presenta como la solución para las casas con problemas de espacio, donde hasta dejar fija la base de carga puede ser un problema.
+
+Sensores anticaída para las escaleras y de detección de obstáculos para evitar chocar con los muebles,
+
+Regreso automático a la estación de carga cuando le queda poca batería.
+
+El funcionamiento es muy correcto, y la posibilidad de programar las horas de funcionamiento, aún cuando no estamos en casa, convierte al Ecovacs Robotics Deebot N79S en un perfecto aliado de la limpieza diaria.
+
+
+
+Pros
+
+Limpieza muy eficiente.
+
+Es programable y cuenta con mando a distancia
+
+Sensores de seguridad anti-caida y anti-colisión
+
+Buena relación calidad-precio
+
+Contras
+
+Un poco ruidoso
+
+No tiene función de fregado
