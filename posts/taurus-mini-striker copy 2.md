@@ -1,5 +1,6 @@
 ---
 title: Taurus vigi Mini Striker
+subtitle: Para casas pequeñas y presupuestos ajustados.
 coverImage: /images/uploads/taurus-mini-striker.jpg
 excerpt: >-
   No siempre necesitas la mejor aspiradora del mercado. A veces solo hace falta

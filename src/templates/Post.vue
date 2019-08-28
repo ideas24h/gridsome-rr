@@ -31,6 +31,7 @@
 query Post($path: String!) {
   post: post(path: $path) {
     title
+    subtitle
     path
     date (format: "MMM D YYYY")
     timeToRead
