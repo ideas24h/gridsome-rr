@@ -14,7 +14,7 @@
         "gridsome-plugin-netlify-cms": "^1.0.6",
         "gridsome-plugin-remark-shiki": "^0.3.0",
         "netlify-cms": "^2.8.0",
-        "node-sass": "^4.11.0",
+        "node-sass": "^7.0.0",
         "sass-loader": "^7.1.0"
     },
     "devDependencies": {
