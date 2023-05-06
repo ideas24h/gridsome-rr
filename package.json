@@ -18,7 +18,7 @@
         "sass-loader": "^7.1.0"
     },
     "devDependencies": {
-        "@gridsome/transformer-remark": "^0.2.1",
+        "@gridsome/transformer-remark": "^0.6.4",
         "eslint": "^5.15.3",
         "eslint-plugin-gridsome": "^1.1.1",
         "gridsome-plugin-tailwind": "^0.0.2",
